@@ -1,3 +1,3 @@
 # ViewDragHelperDemo
 a sample for viewdraghelper
-![image](https://github.com/gouptosee/ViewDragHelperDemo/blob/master/sample.gif)
+![image](https://img-blog.csdnimg.cn/20200124231204106.gif)
